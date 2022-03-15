@@ -1,0 +1,51 @@
+
+    #vid {
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      min-width: 100%;
+      min-height: 100%;
+    }
+
+    .content {
+      position: relative;
+      
+      width: 100%;
+      text-align: center;
+      font-size: 90%;
+      margin: 0 auto;
+    } 
+ 
+    body {
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+
+    .text {
+      background: rgba(0, 0, 0, 0.473);
+      text-align: center;
+      color: aqua;
+     
+    }
+    
+    .stuff {
+      text-align: center;
+      color: rgb(149, 223, 223);
+      margin: auto;
+    }
+
+    .rootme {
+      position: relative;
+      padding-top: 30px;
+      text-align: center;
+      color: rgb(149, 223, 223);
+      margin: auto;
+    }
+
+    .gh {
+      position: relative;
+      padding-top: 30px;
+      text-align: center;
+      color: rgb(149, 223, 223);
+      margin: auto;
+    }
