@@ -49,3 +49,8 @@
       color: rgb(149, 223, 223);
       margin: auto;
     }
+
+    .welcome {
+      max-width: 100%;
+      height: auto;
+    }
