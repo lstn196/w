@@ -42,6 +42,11 @@
       margin: auto;
     }
 
+    .rootme:hover {
+      visibility: hidden;
+    }
+
+
     .gh {
       position: relative;
       padding-top: 10px;
@@ -50,7 +55,18 @@
       margin: auto;
     }
 
+
+    .gh:hover {
+      visibility: hidden;
+    }
+
+    .welcome:hover {
+      visibility: hidden;
+    }
+
     .welcome {
       max-width: 100%;
       height: auto;
     }
+
+   
