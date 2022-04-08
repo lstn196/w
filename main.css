@@ -67,6 +67,6 @@
       height: auto;
     }
 
-.copyright:hover {
+    .copyright:hover {
       visibility: hidden;
     }
