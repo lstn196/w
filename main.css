@@ -42,22 +42,12 @@
       margin: auto;
     }
 
-    .rootme:hover {
-      visibility: hidden;
-    }
-
-
     .gh {
       position: relative;
       padding-top: 10px;
       text-align: center;
       color: rgb(149, 223, 223);
       margin: auto;
-    }
-
-
-    .gh:hover {
-      visibility: hidden;
     }
 
     .welcome:hover {
