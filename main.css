@@ -50,13 +50,23 @@
       margin: auto;
     }
 
-    .welcome:hover {
-      visibility: hidden;
-    }
+  
 
     .welcome {
       max-width: 100%;
       height: auto;
     }
 
-   
+    .welcome:hover {
+      visibility: hidden;
+    }
+
+  
+    .copyright {
+     width: 200px;;
+      height: auto;
+    }
+
+.copyright:hover {
+      visibility: hidden;
+    }
