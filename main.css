@@ -70,3 +70,12 @@
     .copyright:hover {
       visibility: hidden;
     }
+
+    .counter {
+      padding-top: 25px;
+      max-width: 100%;
+      height: auto;
+    }
+    .counter:hover {
+      visibility: hidden;
+    }
